@@ -1,4 +1,4 @@
-# ZK Battleship
+# Aleo Leo Battleship
 
 ## QuickStart
 
