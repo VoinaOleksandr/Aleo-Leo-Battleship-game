@@ -1,3 +1,5 @@
+# Discord: parmedgano
+
 # Aleo Leo Battleship
 
 ## QuickStart
